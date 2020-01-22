@@ -54,6 +54,10 @@ h1 {
   font-size: 1rem;
 }
 
+.active {
+  font-weight: normal;
+}
+
 
 /* Buttons */
 .btn {
