@@ -91,3 +91,15 @@ h1 {
 .social-icon {
   margin: 25px 15px;
 }
+
+.black-color {
+  color: #000;
+}
+
+.width-30-percent {
+  width: 30%;
+}
+
+.column-padding {
+  padding: 3%;
+}
