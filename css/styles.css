@@ -79,6 +79,10 @@ h1 {
   padding: 3% 2%;
 }
 
+.center-aligned {
+  text-align: center;
+}
+
 
 .left-aligned {
   text-align: left;
