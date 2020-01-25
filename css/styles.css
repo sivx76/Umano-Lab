@@ -71,6 +71,16 @@ h1 {
   padding: 8px 20px;
 }
 
+.social-icon {
+  margin: 25px 15px;
+}
+
+
+.btn-info {                 /*styling it is a linkedin-button*/
+  background-color: #2867B2;
+  color: white;
+}
+
 
 /* Containers */
 .container-fluid {
@@ -92,9 +102,6 @@ h1 {
   text-align: left;
 }
 
-.social-icon {
-  margin: 25px 15px;
-}
 
 .black-color {
   color: #000;
